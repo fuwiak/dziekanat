@@ -9,7 +9,7 @@ app.static_folder = 'static'
 def home():
     return render_template("index.html")
 
-
+x = 1
 
 
 if __name__ == '__main__':
